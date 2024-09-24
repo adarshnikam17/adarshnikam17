@@ -2,13 +2,6 @@
 <h3 align="center">🤝Aspiring Software Developer</h3>
 
 
-### Blogs posts
-
-
-
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 # 💫 About Me:
 🔭 I’m currently Studying Computer Science Engineering <br>
